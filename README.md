@@ -1,7 +1,7 @@
 #  Linea-Neon-MB ✨
 
-![Line Neon](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/logo-neon.jpg)  
-![line Arcoíris](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/logo-arcoiris.jpg)  
+![Line](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/logo-neon.jpg)  
+![line](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/logo-arcoiris.jpg)  
 ![Line Verde](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/logo-verde.jpg)  
 ![Line Azul](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/logo-azul.jpg)  
 ![Line Rojo](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/logo-rojo.jpg)  
