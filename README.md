@@ -1,6 +1,6 @@
 # Linea-Neon-MB ✨
 
-![Logo Neon](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/logo-neon.jpg)
+![Neon](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/logo-neon.jpg)
 
 💡 **Linea-Neon-MB** es un proyecto que ofrece **efectos visuales de líneas animadas** en múltiples colores neón.  
 Estas animaciones son perfectas para **interfaces gráficas, sitios web o aplicaciones** que quieran un toque moderno y vibrante.
