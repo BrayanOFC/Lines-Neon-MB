@@ -1,17 +1,15 @@
 #  Linea-Neon-MB ✨
 
 ![line](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/Logo-verde.jpg)
-![line](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/logo-arcoiris.jpg)  
-![Line Verde](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/logo-verde.jpg)  
+![line](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/Logo-neon.jpg) 
+![line](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/Logo-arcoiris.jpg)  
 ![Line Azul](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/logo-azul.jpg)  
-![Line Rojo](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/logo-rojo.jpg)  
-
+![Line ![line](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/Logo-rojo.jpg)
 ---
 
 ## 🎬 Animación de ejemplo
 
-![Líneas Neon](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/line-neon.gif)
-
+![line](https://github.com/BrayanOFC/Lines-Neon-MB/raw/main/assets/logo-neon.gif)
 ---
 
 ## 👑 Créditos
